@@ -49,7 +49,7 @@ var guilds = [];
 
 var queueNames = [];
 
-var isPlaying = false;
+var isPlaying = true;
 
 var dispatcher = null;
 
